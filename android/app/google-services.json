@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "424032600661",
+    "project_id": "fooddonation-bc0e3",
+    "storage_bucket": "Enter storage bucket url"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "Enter mobilesdk_app_id",
+        "android_client_info": {
+          "package_name": "com.fooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "Enter Client_Id",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fooddonation",
+            "certificate_hash": "Enter certificate_hash"
+          }
+        },
+        {
+          "client_id": "Enter Client_Id",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Firebase_account_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "Enter Client_Id",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
